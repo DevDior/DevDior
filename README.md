@@ -1,4 +1,4 @@
-<div align="center">Hello</div>
+<div align="center">
   
 ### ✨ ___It is the time you have wasted for your rose that makes your rose so important___ ✨
 <hr>
@@ -29,4 +29,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDior&theme=radical&count_private=true)
 
-</center>
+</div>
