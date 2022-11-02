@@ -1,6 +1,4 @@
-<center>Hello</center>
-
-<center>
+<div align="center">Hello</div>
   
 ### ✨ ___It is the time you have wasted for your rose that makes your rose so important___ ✨
 <hr>
