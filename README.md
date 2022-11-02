@@ -3,7 +3,7 @@
 ### ✨ ___It is the time you have wasted for your rose that makes your rose so important___ ✨
 <hr>
 
-### _The Survival of Developers from Liberal Arts_
+### _The Survival of a Developer from Liberal Arts_
 <br>
 
 ___Back End Engineer At Gallery Via\
