@@ -29,7 +29,7 @@ Favorite things: Philosophy, Musical, Travel, Excercise, Learning, Reading___
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
   
 #### :star: <u>___About Me___</u>
-![Velog]<a href="https://velog.io/@chinup1004"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@chinup1004"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chinup1004)](https://solved.ac/chinup1004/)<br><hr>
 
