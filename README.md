@@ -33,6 +33,6 @@ Favorite things: Philosophy, Musical, Travel, Excercise, Learning, Reading___
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chinup1004)](https://solved.ac/chinup1004/)<br><hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDior&theme=radical&count_private=true)
+![Anurag's GitHub stats]([https://github-readme-stats](https://github-readme-stats-git-masterrstaa-rickstaa/).vercel.app/api?username=DevDior&theme=radical&count_private=true)
 
 </div>
