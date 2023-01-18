@@ -6,7 +6,7 @@
 ### _The Survival of a Developer from Liberal Arts_
 <br>
 
-___Back End Engineer At Gallery Via\
+___Back End Engineer At Corp Via\
 Focus on growth rather than material___
 <br><br>
 
