@@ -3,10 +3,7 @@
 ### ✨ ___It is the time you have wasted for your rose that makes your rose so important___ ✨
 <hr>
 
-### _The Survival of a Developer from Liberal Arts_
-<br>
-
-___Back End Engineer At Corp Via\
+___Software Engineer At ClaBi\
 Focus on growth rather than material___
 <br><br>
 
