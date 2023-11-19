@@ -16,6 +16,7 @@ Favorite things: Philosophy, Musical, Travel, Excercise, Learning, Reading___
 
 #### :fire: <u>___Framework___</u>
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-#009688?style=flat-square&logo=FastAPI&logoColor=white)
 
 #### :fire: <u>___DB___</u>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white)
