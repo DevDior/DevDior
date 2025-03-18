@@ -12,13 +12,13 @@ Favorite things: Philosophy, Musical, Travel, Excercise, Learning, Reading___
 <br><br>
 
 #### :fire: <u>___Language___</u>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-03C75A?style=flat-square&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 #### :fire: <u>___Framework___</u>
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 
 #### :fire: <u>___DB___</u>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white)
